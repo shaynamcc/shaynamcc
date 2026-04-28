@@ -15,7 +15,7 @@ Incoming GE Aerospace DTLP, starting for the Summer Term 2026
 
 ## Skills
 - Python, SQL
-- Dataiku, VS Code, Adminer, AWS SageMaker AI, 
+- Dataiku, VS Code, Adminer, AWS SageMaker AI
 - Machine Learning, Data Pipelines, Environment Management
 
 ---
@@ -49,9 +49,5 @@ Incoming GE Aerospace DTLP, starting for the Summer Term 2026
 
 ## Experience
 **Check out my LinkedIn for all information regarding my experience :)**
+
 www.linkedin.com/in/shayna-mcconville
-
----
-
-## 📫 Connect
-- LinkedIn: [link]
