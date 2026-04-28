@@ -1,4 +1,4 @@
-# Hi, I'm Shayna!
+# Hi, I'm Shayna McConville!
 
 Computational  Data Science student at Michigan State University  
 Incoming GE Aerospace DTLP, starting for the Summer Term 2026
